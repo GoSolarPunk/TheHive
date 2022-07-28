@@ -2,8 +2,8 @@
 
 ## The Bee
 
-* 6 WS281b "NeoPixel" LEDs
-* ESP-M3 (ES8285) Wireless
+* 6 WS2812b "NeoPixel" LEDs
+* ESP-M3 (ESP8285) Wireless
 * Voltage handling for 3.3V to 5V up conversion and logic shifting
 * UART -> ESP-M3 - 6 pin for FTDI connectors
 * ESP-M3 GPIO0 breakout from unpopulated pin and jumper
